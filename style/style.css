@@ -66,10 +66,11 @@
   justify-content: space-between;
   align-items: center;
   right: 10%;
+  top:18px;
 }
 .main-header .container .navbar .toggle-btn .bar {
   width: 100%;
-  height: 3px;
+  height: 4px;
   border-radius: 10px;
   background-color: #ffffff;
 }
@@ -98,7 +99,7 @@
   }
   .main-header .container .navbar .toggle-btn .bar.bar-two {
     transform: rotate(42deg);
-    top: -11px;
+    top: -10px;
     transition: 0.3s all ease-in;
   }
   .main-header .container .navbar .nav-links {
